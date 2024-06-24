@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kennia Jackeline Sánchez Castillo</h1>
+<h1 align="center">Hi 👋, I'm Kennia Sánchez</h1>
 <p align="center">I am an enthusiastic engineer with a keen interest in staying at the forefront of technology. I am committed to developing innovative and efficient solutions for current challenges. I believe that my ability to quickly learn and apply new concepts in problem-solving positions me as a high-potential professional capable of contributing to innovative projects.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kennia-sanchez&label=Profile%20views&color=0e75b6&style=flat" alt="kennia-sanchez" /> </p>
